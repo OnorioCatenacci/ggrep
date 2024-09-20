@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/ggrep/META"
+  "_build/install/default/lib/ggrep/dune-package"
+  "_build/install/default/lib/ggrep/opam"
+]
+bin: [
+  "_build/install/default/bin/ggrep.exe"
+]

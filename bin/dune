@@ -1,0 +1,4 @@
+(executable
+ (public_name ggrep)
+ (name main)
+ (libraries ggrep core))
