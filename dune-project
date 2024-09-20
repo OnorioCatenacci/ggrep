@@ -5,20 +5,20 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github OnorioCatenacci/ggrep))
 
 (authors "Onorio Catenacci")
 
 (maintainers "Onorio Catenacci")
 
-(license LICENSE)
+(license MIT)
 
 (documentation https://url/to/documentation)
 
 (package
  (name ggrep)
- (synopsis "A short synopsis")
- (description "A longer description")
+ (synopsis "Good grep")
+ (description "A modest attempt to build my own grep util in OCaml")
  (depends ocaml dune)
  (tags
   (topics "to describe" your project)))
